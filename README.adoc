@@ -1,6 +1,6 @@
 = README - RANK DATABASE
 
-:githubdir: https://github.com/rperkow
+:githubdir: https://github.com/rafal-perkowski
 :projectdir: /RankDatabase
 :blobmasterdir: /blob/master
 :sqldir: sql
