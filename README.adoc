@@ -69,7 +69,7 @@ oraz podające liczbę zwracanych przez nie rekordów wynikowych.
 
 W pliku link:{sqldir}/ERD-TOP500RANK.png[ERD-TOP500RANK [95.7 KB]] umieszczono diagram bazy danych, prezentujący powiązania pomiędzy tabelami oraz stworzone widoki.
 
-image::sql/ERD-TOP500RANK.png[Diagram ER]
+image::{sqldir}/ERD-TOP500RANK.png[Diagram ER]
 
 ## Materiały
 
